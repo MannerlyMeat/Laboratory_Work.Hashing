@@ -5,4 +5,4 @@
 а) Р = '021135579', KSumm = ?, SummKodBukvOtkr – ?; 
 б) Р = '975531120', KSumm = ?, SummKodBukvOtkr – ?; 
 в) Р = '1000097', KSumm = ?, SummKodBukvOtkr – ?; 
-г) 	Р = '1970000', KSumm = ?, SummKodBukvOtkr – ?
+г) Р = '1970000', KSumm = ?, SummKodBukvOtkr – ?
